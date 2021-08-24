@@ -1,5 +1,7 @@
 {
+  "name": "componen",
   "main": "index.js",
+  "author": "Sanjay-87",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -23,5 +25,7 @@
   "devDependencies": {
     "@babel/core": "^7.9.0"
   },
-  "private": true
+  "repository": "git@github.com:Sanjay-87/componen.git",
+  "private": false,
+  "version": "0.0.4"
 }
